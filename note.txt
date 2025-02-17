@@ -1,0 +1,16 @@
+
+1. inline CSS
+2. internal CSS
+3. external CSS
+
+
+property & value
+
+color: red;
+background-color: green;
+
+identifier...
+
+1. tag
+2. class
+3. id
